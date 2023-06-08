@@ -11,7 +11,6 @@ This is a basic moblie application app, made using Flutter
 ```
 `To Do Tasks app:`
 <ul>
-    <li>
         Basic day-to-day tasks
 
         Add New Task
