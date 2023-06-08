@@ -19,7 +19,6 @@ This is a basic moblie application app, made using Flutter
         Search for the tasks
 
         Delete the Tasks
-    </li>
 </ul>
 
 ```
