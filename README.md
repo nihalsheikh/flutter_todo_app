@@ -10,12 +10,17 @@ This project is a starting point for a Flutter application.
 This is a basic moblie application app, made using Flutter
 ```
 `To Do Tasks app:`
-<li>
-    Basic day-to-day tasks
-    Add New Task
-    Search for the tasks
-    Delete the Tasks
-</li>
+<ul>
+    <li>
+        Basic day-to-day tasks
+
+        Add New Task
+
+        Search for the tasks
+
+        Delete the Tasks
+    </li>
+</ul>
 
 ```
 A few resources to get you started if this is your first Flutter project:
